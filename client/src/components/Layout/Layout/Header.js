@@ -37,7 +37,7 @@ const Header = () => {
                     </button>
                     <div className="collapse navbar-collapse" id="navbarTogglerDemo01">
                         <Link to="/" className="navbar-brand text-white">
-                            🛒 Ecommerce App by Koushik
+                            🛒 Ecommerce App by Subhankar
                         </Link>
                         <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
                             <SearchInput />
